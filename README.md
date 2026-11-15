@@ -7,8 +7,6 @@ KOSPI200 step-down ELS의 payoff, FDM delta, 정적/동적 hedge, grid search, m
 | 경로 | 내용 |
 |---|---|
 | `data/` | KOSPI200 원자료 및 참고 데이터 |
-| `output/` | 각 섹션에서 저장한 CSV, NPY 결과 |
-| `figures/` | Section 8~9 보고서용 그래프 이미지 |
 | `ELS_Optimal_Hedge.ipynb` | Section 0~2: 세팅, 시장 데이터, Monte Carlo |
 | `section_3_payoff.ipynb` | Section 3: ELS payoff 및 상환 유형 분석 |
 | `section_4_fdm_delta.ipynb` | Section 4: FDM value grid와 delta grid |
